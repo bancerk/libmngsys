@@ -1,13 +1,13 @@
-package dev.patika.libmngsys;
+package com.example.LibManagerSys;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LibmngsysApplication {
+public class LibManagerSysApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LibmngsysApplication.class, args);
+		SpringApplication.run(LibManagerSysApplication.class, args);
 	}
-
 }
+
